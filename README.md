@@ -37,24 +37,27 @@ The Primary Data Set used for this Analysis is an "Excel file.xlsx" obtained fro
 - Excel Pivot Table - Data Analysis
 - Excel Pivot Chat -Dashboard
 
+
  ### Data Cleaning
  
 In the data cleaning /prepartion the following were carried out
 
-- Data  inspection
-- Checks amd removal of duplicates
-- Changing of M, F and S  syntax in Gender and Marital Status Columns to Male, Female and Single for proper understanding and definition
-- Using "IFS"  function to create a new coloumn to specifiy the age range as Old, Middle Age and Adolescent using the age data in the Age column
+- Data  inspection to have proper understanding of the data set
+- Checks amd removal of duplicates using Remove duplicate function
+- Address Column Was combined with the block number column using the Flash fill function and labelled "Address"
+- Empty cells in Sale price columns were replaced with $0 values using find and replace function
+- Blank rows were also removed using the filter /delete function
   
 ### Exploratory Data Analysis
 
 EDA involved exploring the data to answer key questions, such as
 
-- Compare the age bracket to the count of bike purchase
-- Compare the purchase of bike with the average income of the customers
-- Which Gender Purchases more Bikes
-- How do the Education of the customer affect the bike purchase
-- the Effect of individual Commute distance on the bike purchase
+- What is the total sales price per borough
+- What is the Total Units sold per borough
+- What  is the total Units of each property type sold per borough
+- Does the Tax Category of a property at the time of sale influnce the decison to sell the property
+- What is the total units of property acquired by inheritance
+- 
 
  ### Data Analysis
 Several relationshp tables were created to answer the EDA questions listed above.
