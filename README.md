@@ -15,7 +15,7 @@
   
 ### Project Overview
 
-This  Sales Analysis is aimed at providing insight on how the propery market of New York between the third Quarter of 2016 and the third quarter of 2017
+This  Sales Analysis is aimed at providing insight on the propery market of New York between the third Quarter of 2016 and the third quarter of 2017
 
 [nyc-rolling-sales (version 1).xlsx](https://github.com/Bamscrown/New-York-Property-Sales-Analysis/files/14628187/nyc-rolling-sales.version.1.xlsx)
 
@@ -26,7 +26,7 @@ This  Sales Analysis is aimed at providing insight on how the propery market of 
 
 ### Data Source
 
-The Primary Data Set used for this Analysis is a "Excel file.xlsx" cotaining detail information about the property sale in the New York between the third Quarter of 2016 and the third Quarter of 2017. The date contains infromation such as the Boroughs in the New York, the unit sold, the proeprty type sold i.e wether the property sold is a commercial property or a residential property, the sale sprice, sales date, Property Cathegory, the property tax category, the tax category amongst others
+The Primary Data Set used for this Analysis is an "Excel file.xlsx" obtained from "Kaggle" with information about the property sale in the New York between the third Quarter of 2016 and the third Quarter of 2017. The data contains infromation such as the Boroughs in the New York, the unit sold, the proeprty type sold i.e wether the property sold is a commercial property or a residential property, the property selling price, sales date, Property Cathegory at the time of purchase and present, the property tax category at the time of purchase and present , amongst others
    -[Download here](https://www.kaggle.com/datasets/new-york-city/nyc-property-sales)
 
 ### Tools
