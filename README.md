@@ -72,20 +72,24 @@ The following relationship tables were created
 - Total Units sold per property type in each borough
 
 
- ### Results
+  ### Results
   
   The Analysis Results are summarised as follows;
-  - The demand for bike is higher within the Adolescent age bracket as such the age is a significant factor on the purchase of bike
-  - The higher the income of rhe customer the more interested in purchasing a bike
-  - Commute distance of the customer does not affect the purchase of a bike
-  - The purchase of a bike is not significantly impacted by the Gender of the customer
+  - Borough 1 has the highest sale price and brough 5 is the list
+  - Borough 3 has the Highest property unit sold and boroug 5 is the least
+  - Values of Properties in Borough 1 is high
+  - 40% of Properties acquired  in the New York within this period was by inheritance
+  - Property business in Borough 5 is not thriving
+  - Properties in Tax Category # are not being sold, this may be do to government policies on properties in this category
+  - No sigificant differnece in the property type sold across the Borough
+
 
 ### Recommendations
 
-Base on the result of the  Analysis, i recommend the following actions,
-- The marketing strategy of the organisation should focus more on the Middle age bracket between 30 and 54 years old,  they are more interested in purchasing a bike
-- The Marketing strategy should also focus more on the higher income earners within the entire region
-- The marketing starategy should not also be gender focused as both the male and female are interested in purchasing a bike espcially when the earn more
+Base on the result of the  Analysis,yy
+- Borough 5 is not a good destination for any Property sales agent
+- Borough 5 could be a good destination to buy cheap properties
+- Borough 1 and 3 may be a good property investment destination. Values of properties will appreciate fast due to Market forces of demand and supply
 
 
 ### Limitation
