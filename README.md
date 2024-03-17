@@ -72,7 +72,7 @@ The following relationship tables were created
 - Total Units sold per property type in each borough
 
 
-- ### Results
+ ### Results
   
   The Analysis Results are summarised as follows;
   - The demand for bike is higher within the Adolescent age bracket as such the age is a significant factor on the purchase of bike
