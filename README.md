@@ -68,8 +68,8 @@ The following relationship tables were created
 - Table 1 : Total Property units sold in each borough to know which borough has the highest and the least sales and what factor could be responsible
 - Table 2 : Total Sales price of properties in each borough to gain insight into the borough that has the highest sales price and what effect each property values have on the result
 - Table 3 : Property Units sold per each quarter
-- Total Unit sold per Tax Category as at the time of sales to determine the effect tax policies have on property sale
-- Total Units sold per property type in each borough
+- Table 4 : Total Unit sold per Tax Category as at the time of sales to determine the effect tax policies have on property sale
+- Table 5 : Total Units sold per property type in each borough
 
 
   ### Results
