@@ -15,7 +15,6 @@
 
 
 
-  
 ### Project Overview
 
 This  Sales Analysis is aimed at providing insight on the propery market of New York between the third Quarter of 2016 and the third quarter of 2017
