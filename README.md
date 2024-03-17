@@ -17,15 +17,16 @@
 
 This  Sales Analysis is aimed at providing insight on how the propery market of New York between the third Quarter of 2016 and the third quarter of 2017
 
+[nyc-rolling-sales (version 1).xlsx](https://github.com/Bamscrown/New-York-Property-Sales-Analysis/files/14628187/nyc-rolling-sales.version.1.xlsx)
 
 
 
-
+![Screenshot 2024-03-17 105858](https://github.com/Bamscrown/New-York-Property-Sales-Analysis/assets/163521119/cbb9b76c-26db-4143-9f21-a82037f76587)
 
 
 ### Data Source
 
-The Primary Data Set used for this Analysis is a "Excel Project Dataset.xlsx" cotaining detail information about purchase of bike, commute distance of the customers, age bracket,education ,gender amongst others,
+The Primary Data Set used for this Analysis is a "Excel file.xlsx" cotaining detail information about the property sale in the New York between the third Quarter of 2016 and the third Quarter of 2017. The date contains infromation such as
 
 ### Tools
 
