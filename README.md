@@ -68,6 +68,7 @@ Three major realtionship tables were created
 - Table 2 : Avearge income of the customer base on their gender to determine the gender and the average income of the customer that either bought or did not buy a bike
 - Table 3 : Count of bike purchase base on the customer cummute distance
 
+
 - ### Results
   
   The Analysis Results are summarised as follows;
@@ -86,7 +87,7 @@ Base on the result of the  Analysis, i recommend the following actions,
 
 ### Limitation
 
-The properties that were acquired by inheritace had a sales price value of $0. All empty cells in sales price column were replaced with $0 value but this may not be the reality as some of the empty cells may be due to oversite and not necesaary that the property was sold for $0(inherited)
+The properties that were acquired by inheritace had a sales price value of $0. All empty cells in sales price column were replaced with $0 value but this may not be the reality as some of the empty cells may be omitted and not necesaary that the property was sold for $0(inherited)
 
 
 
