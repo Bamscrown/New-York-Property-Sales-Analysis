@@ -26,7 +26,8 @@ This  Sales Analysis is aimed at providing insight on how the propery market of 
 
 ### Data Source
 
-The Primary Data Set used for this Analysis is a "Excel file.xlsx" cotaining detail information about the property sale in the New York between the third Quarter of 2016 and the third Quarter of 2017. The date contains infromation such as
+The Primary Data Set used for this Analysis is a "Excel file.xlsx" cotaining detail information about the property sale in the New York between the third Quarter of 2016 and the third Quarter of 2017. The date contains infromation such as the Boroughs in the New York, the unit sold, the proeprty type sold i.e wether the property sold is a commercial property or a residential property, the sale sprice, sales date, Property Cathegory, the property tax category, the tax category amongst others
+   -[Download here](https://www.kaggle.com/datasets/new-york-city/nyc-property-sales)
 
 ### Tools
 
