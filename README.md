@@ -81,7 +81,7 @@ The following relationship tables were created
 - 40% of Properties acquired  in the New York within this period was by inheritance
 - Property business in Borough 5 is not thriving
 - Properties in Tax Category 3 are not being sold, this may be due to government  policies on properties in this category
-- No sigificant differnece in the property type sold across the Borough
+- No sigificant differnece in the property type sold across all Borough
 
 
 ### Recommendations
