@@ -94,7 +94,7 @@ Base on the result of the  Analysis,
 
 ### Limitation
 
-The properties that were acquired by inheritace had a sales price value of $0. All empty cells in sales price column were replaced with $0 value but this may not be the reality as some of the empty cells may be omitted and not necesaary that the property was sold for $0(inherited)
+The properties that were acquired by inheritace had a sales price value of $0. All empty cells in sales price column were replaced with $0 value but this may not be the reality as some of the empty cells may be omitted and not necessarily sold for $0(inherited)
 
 
 
