@@ -10,6 +10,7 @@
 - [Data Analysis](#data-analysis)
 - [Results](#results)rtr of @0
 - [Recommendations](#recommendations)
+- [Limitation](#limitation)
   
 
   
@@ -32,8 +33,7 @@ The Primary Data Set used for this Analysis is an "Excel file.xlsx" obtained fro
                                     
 ### Tools
 
-- Excel Power Query - Data Cleaning
-   [Download here](https://microsoft.com)
+- Excel Power Query - Data Cleaning [Download here](https://microsoft.com)
 - Excel Pivot Table - Data Analysis
 - Excel Pivot Chat -Dashboard
 
@@ -48,16 +48,17 @@ In the data cleaning /prepartion the following were carried out
 - Empty cells in Sale price columns were replaced with $0 values using find and replace function
 - Blank rows were also removed using the filter /delete function
   
+
 ### Exploratory Data Analysis
 
 EDA involved exploring the data to answer key questions, such as
 
 - What is the total sales price per borough
-- What is the Total Units sold per borough
+- What is the total Units sold per borough
 - What  is the total Units of each property type sold per borough
-- Does the Tax Category of a property at the time of sale influnce the decison to sell the property
+- Does the tax Category of a property at the time of sale influence the decison to sell the property
 - What is the total units of property acquired by inheritance
-- 
+  
 
  ### Data Analysis
 Several relationshp tables were created to answer the EDA questions listed above.
@@ -80,7 +81,12 @@ Three major realtionship tables were created
 Base on the result of the  Analysis, i recommend the following actions,
 - The marketing strategy of the organisation should focus more on the Middle age bracket between 30 and 54 years old,  they are more interested in purchasing a bike
 - The Marketing strategy should also focus more on the higher income earners within the entire region
-- The marketing starategy should not also be gender focused as both the male and female are interested in purchasing a bike espcially when the earn more 
+- The marketing starategy should not also be gender focused as both the male and female are interested in purchasing a bike espcially when the earn more
+
+
+### Limitation
+
+The properties that were acquired by inheritace had a sales price value of $0. All empty cells in sales price column were replaced with $0 value but this may not be the reality as some of the empty cells may be due to oversite and not necesaary that the property was sold for $0(inherited)
 
 
 
