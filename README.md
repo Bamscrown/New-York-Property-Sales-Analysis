@@ -45,7 +45,7 @@ In the data cleaning /prepartion the following were carried out
 
 - Data  inspection to have proper understanding of the data set
 - Checks and removal of duplicates using Remove duplicate function
-- Address Column Was combined with the block number column using the Flash fill function and labelled "Address"
+- Address column Was combined with the Block number column using the flash fill function and labelled "Address"
 - Empty cells in Sale price columns were replaced with $0 values using find and replace function
 - Blank rows were also removed using the filter /delete function
   
