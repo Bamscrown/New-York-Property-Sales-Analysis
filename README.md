@@ -86,7 +86,7 @@ The following relationship tables were created
 
 ### Recommendations
 
-Base on the result of the  Analysis,yy
+Base on the result of the  Analysis,
 - Borough 5 is not a good destination for any Property sales agent
 - Borough 5 could be a good destination to buy cheap properties
 - Borough 1 and 3 may be a good property investment destination. Values of properties will appreciate fast due to Market forces of demand and supply
