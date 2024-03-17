@@ -75,13 +75,13 @@ The following relationship tables were created
   ### Results
   
   The Analysis Results are summarised as follows;
-  - Borough 1 has the highest sale price and brough 5 is the list
-  - Borough 3 has the Highest property unit sold and boroug 5 is the least
-  - Values of Properties in Borough 1 is high
-  - 40% of Properties acquired  in the New York within this period was by inheritance
-  - Property business in Borough 5 is not thriving
-  - Properties in Tax Category # are not being sold, this may be do to government policies on properties in this category
-  - No sigificant differnece in the property type sold across the Borough
+- Borough 1 has the highest sale price and brough 5 is the list
+- Borough 3 has the Highest property unit sold and boroug 5 is the least
+- Values of Properties in Borough 1 is high
+- 40% of Properties acquired  in the New York within this period was by inheritance
+- Property business in Borough 5 is not thriving
+- Properties in Tax Category # are not being sold, this may be do to government policies on properties in this category
+-- No sigificant differnece in the property type sold across the Borough
 
 
 ### Recommendations
