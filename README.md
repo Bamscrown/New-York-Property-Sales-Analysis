@@ -63,11 +63,13 @@ EDA involved exploring the data to answer key questions, such as
 
  ### Data Analysis
 Several relationshp tables were created to answer the EDA questions listed above.
-Three major realtionship tables were created
+The following relationship tables were created
 
-- Table 1 : Count of bike Purchase of bike base on the customer gender
-- Table 2 : Avearge income of the customer base on their gender to determine the gender and the average income of the customer that either bought or did not buy a bike
-- Table 3 : Count of bike purchase base on the customer cummute distance
+- Table 1 : Total Property units sold in each borough to know which borough has the highest and the least sales and what factor could be responsible
+- Table 2 : Total Sales price of properties in each borough to gain insight into the borough that has the highest sales price and what effect each property values have on the result
+- Table 3 : Property Units sold per each quarter
+- Total Unit sold per Tax Category as a time of sales to determine the effect tax policies have on property sale
+- Total Units sold per property type in each borough
 
 
 - ### Results
